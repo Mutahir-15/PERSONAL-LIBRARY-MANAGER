@@ -25,13 +25,13 @@ Add, remove, search, and track your books, along with statistics and **file-savi
 ✅ library.txt (created automatically)
 
 # ▶️ Usage
-📚 Personal Library Manager
-1️⃣ Add a Book
-2️⃣ Remove a Book
-3️⃣ Search for a Book
-4️⃣ Display All Books
-5️⃣ Display Statistics
-6️⃣ Exit
+📚 Personal Library Manager<br>
+1️⃣ Add a Book<br>
+2️⃣ Remove a Book<br>
+3️⃣ Search for a Book<br>
+4️⃣ Display All Books<br>
+5️⃣ Display Statistics<br>
+6️⃣ Exit<br>
 Enter your choice:
 
 # 📜 License

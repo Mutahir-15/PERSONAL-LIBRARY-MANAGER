@@ -6,8 +6,8 @@ Add, remove, search, and track your books, along with statistics and **file-savi
 ## 🚀 Features
 ✅ Add, remove, search for books  
 ✅ Display all books in a formatted list  
-✅ View statistics (total books, percentage read)  
-✅ Save and load data automatically using `library.json`  
+✅ View statistics 
+✅ Save and load data automatically using `library.txt`  
 ✅ Interactive **menu system**  
 
 ## 🛠️ Installation

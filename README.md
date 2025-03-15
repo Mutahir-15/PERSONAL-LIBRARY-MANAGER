@@ -15,7 +15,7 @@ Add, remove, search, and track your books, along with statistics and **file-savi
 1. **Clone the repository**  
    ```sh
    git clone https://github.com/Mutahir-15/PERSONAL-LIBRARY-MANAGER.git
-   cd library-manager
+   cd PERSONAL-LIBRARY-MANAGER
 
 2. **Run the applictaion**
    py app.py

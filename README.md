@@ -20,11 +20,11 @@ Add, remove, search, and track your books, along with statistics and **file-savi
 2. **Run the applictaion**<br>
    py app.py
 
-# 📌 Requirements<br>
+## 📌 Requirements<br>
 ✅ Python 3.x installed<br>
 ✅ library.txt (created automatically)<br>
 
-# ▶️ Usage
+## ▶️ Usage
 📚 Personal Library Manager<br>
 1️⃣ Add a Book<br>
 2️⃣ Remove a Book<br>
@@ -34,5 +34,5 @@ Add, remove, search, and track your books, along with statistics and **file-savi
 6️⃣ Exit<br>
 Enter your choice (1-6):
 
-# 📜 License
+## 📜 License
 This project is open-source and free to use under the MIT License.

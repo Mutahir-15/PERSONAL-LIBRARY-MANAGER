@@ -32,7 +32,7 @@ Add, remove, search, and track your books, along with statistics and **file-savi
 4️⃣ Display All Books<br>
 5️⃣ Display Statistics<br>
 6️⃣ Exit<br>
-Enter your choice:
+Enter your choice (1-6):
 
 # 📜 License
 This project is open-source and free to use under the MIT License.

@@ -6,7 +6,7 @@ Add, remove, search, and track your books, along with statistics and **file-savi
 ## 🚀 Features
 ✅ Add, remove, search for books  
 ✅ Display all books in a formatted list  
-✅ View statistics 
+✅ View statistics<br>
 ✅ Save and load data automatically using `library.txt`  
 ✅ Interactive **menu system**  
 
